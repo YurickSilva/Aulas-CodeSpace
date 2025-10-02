@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "operadores_atribuicao.C": "cpp",
+        "operadores_aritimeticos.C": "cpp",
+        "operadores_dec_inc.C": "cpp",
+        "Variaveis.C": "cpp"
+    }
+}
