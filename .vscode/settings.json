@@ -3,6 +3,7 @@
         "operadores_atribuicao.C": "cpp",
         "operadores_aritimeticos.C": "cpp",
         "operadores_dec_inc.C": "cpp",
-        "Variaveis.C": "cpp"
+        "Variaveis.C": "cpp",
+        "stdio.h": "c"
     }
 }
